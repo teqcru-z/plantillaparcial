@@ -6,7 +6,14 @@ package plantilla;
 
 /**
  *
- * @author tequi
+ * import controlador.EmpleadoController;
+import javax.swing.table.DefaultTableModel;
+import modelo.Empleado;
+import javax.swing.JOptionPane;
+* import java.util.List;
+* import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
  */
 public class Plantilla {
 
